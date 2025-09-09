@@ -1,0 +1,8 @@
+House Price Prediction using Machine Learning.
+
+Algorithm / Model Used: Random Forest Regressor.
+
+Training Set Mean Absolute Error: 1.4606  and 
+Test Set Mean Absolute Error: 3.8313.
+ 
+
