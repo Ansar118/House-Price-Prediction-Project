@@ -1,0 +1,9 @@
+year_built,stories,num_bedrooms,full_bathrooms,half_bathrooms,livable_sqft,total_sqft,has_fireplace,has_pool,has_central_heating,has_central_cooling,garage_type,city,sale_price
+1958,1,3,1,1,1984,2002,TRUE,FALSE,TRUE,TRUE,attached,Hallfort,302404
+2014,1,3,2,0,2021,2134,FALSE,FALSE,TRUE,TRUE,attached,South Anthony,347756
+2006,1,3,2,0,2088,2436,TRUE,FALSE,TRUE,TRUE,attached,Lake Christinaport,233097
+2008,1,4,3,1,4096,4607,TRUE,TRUE,TRUE,TRUE,attached,Richardport,2381399
+2004,1,4,3,0,2395,2727,TRUE,FALSE,TRUE,TRUE,attached,Lewishaven,492026
+2014,1,5,2,1,2650,2956,TRUE,FALSE,TRUE,TRUE,attached,South Anthony,476283
+2005,2,4,2,1,2758,2843,TRUE,FALSE,TRUE,TRUE,attached,Davidfort,396902
+2001,2,3,2,1,1985,2026,TRUE,FALSE,TRUE,TRUE,attached,Wendybury,395011
